@@ -1,4 +1,4 @@
 # Railway-Ticket-Booking-System-RTBS-
 This is my first Git Repository.
 <br>
-AUTHOR - NISHA EJAZ 
+AUTHOR - Nisha Ejaz
